@@ -1,0 +1,1 @@
+<?php# FileName="Connection_php_mysql.htm"# Type="MYSQL"# HTTP="true"$hostname_dest = "db732.oneandone.co.uk";$database_dest = "db186647342";$username_dest = "dbo186647342";$password_dest = "vW278Mt7";$dest = mysql_pconnect($hostname_dest, $username_dest, $password_dest) or trigger_error(mysql_error(),E_USER_ERROR); ?>
