@@ -69,20 +69,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 		  <h2>Live Flight Status</h2>
 		  
-		  <div class="alert alert-warning alert-dismissible fade show" role="alert">
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-  <strong>New York Flights</strong> Due to the current snow storm in the north east of America, some flights are being delayed. Check with your airline.
-</div>
-		  
+
       <p>Using the tables below you can  check the times for a departing, or arriving flights at Birmingham International Airport.  <br />
 <br />
 You may have to change the time period if you cannot see the flight you are looking for. <br />
 <br />
 Also note that you can set up a mobile alert, and also track the flight.  Click on the tabs to switch between Departures and Arrivals.<br /><br />
 If you want to see even more data, why not visit <a href="http://www.flightstats.com">Flight Stats</a> and check out the wealth of information they have for Birmingham International Airport, plus most other European and Global airports.</p>
-		  
+
 <div class="alert alert-info" role="alert">
   <h4 class="alert-heading">Flight Delayed More Than Two Hours?</h4>
   <p>If a flight is delayed for more than two hours, or even cancelled, then you <em><strong>may</strong></em> be entitled to compensation under EU law.  Read through what <a class="alert-link" href="TravelTips/flightcompensation.php">delayed flight compensation</a> you may be eligible for.</p>
@@ -104,7 +98,7 @@ If you want to see even more data, why not visit <a href="http://www.flightstats
 			<table width="480">
 			  <tr>
 			    <td width="65%" style="font-family: Arial, sans-serif; font-size: 7pt;">
-						 Flight information is provided by <a target="_blank" href="http://www.flightstats.com">FlightStats</a>, and is subject to the FlightStats <a target="_blank" href="http://www.flightstats.com/go/About/termsOfUse.do">Terms of Use</a>. 
+						 Flight information is provided by <a target="_blank" href="http://www.flightstats.com">FlightStats</a>, and is subject to the FlightStats <a target="_blank" href="http://www.flightstats.com/go/About/termsOfUse.do">Terms of Use</a>.
 			    </td>
 			  </tr>
 			</table>
@@ -125,19 +119,19 @@ If you want to see even more data, why not visit <a href="http://www.flightstats
 			<table width="480">
 			  <tr>
 			    <td width="65%" style="font-family: Arial, sans-serif; font-size: 7pt;">
-						 Flight information is provided by <a target="_blank" href="http://www.flightstats.com">FlightStats</a>, and is subject to the FlightStats <a target="_blank" href="http://www.flightstats.com/go/About/termsOfUse.do">Terms of Use</a>. 
+						 Flight information is provided by <a target="_blank" href="http://www.flightstats.com">FlightStats</a>, and is subject to the FlightStats <a target="_blank" href="http://www.flightstats.com/go/About/termsOfUse.do">Terms of Use</a>.
 			    </td>
 			  </tr>
 			</table>
       </div>
     </div>
   </div>
-  
-</div><!--End of Accordian--> 
+
+</div><!--End of Accordian-->
     </div><!-- End of right column-->
   </div><!-- End of main row-->
-		
-  
+
+
 
       <hr>
 
@@ -152,10 +146,10 @@ If you want to see even more data, why not visit <a href="http://www.flightstats
    <script async src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 	 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
