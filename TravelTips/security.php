@@ -54,15 +54,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	  <div class="col-md-9"><!--Editorial Content-->
 	  	 	 	 <nav class="breadcrumb navbar-light" style="background-color: #e3f2fd;">
   <!-- Navbar content -->
-				 
+
 		 <a class="breadcrumb-item" href="/index.php">Home</a>
 		 <a class="breadcrumb-item" href="/traveltips.php">Travel Tips</a>
 		 <a class="breadcrumb-item active" href="/traveltips/security.php">Security</a>
-		 
+
 	 </nav>
 		  <h1>Travel Tips</h1>
 		    <div class="card-block">
-				
+
 <!--Top adsense banner-->
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top Header Responsive -->
@@ -75,12 +75,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-				
+
 </div>
-		  
+
 		  <!--Start of editorial-->
 <p>Getting through security can be a stressful task, particularly if you're not a frequent traveller or have young children with you.  We've added some top tips below to make this important process more bearable and quicker.  Also bear in mind some of the busiest periods are during the school holidays, so allow an extra 15 minutes during these times. </p>
-	
+
 <ul class="simple-list">
 <li>Check in online - If you check in online you can proceed straight to bag drop or the security gates if you just have hand luggage.  Ultimately this will give you more time to get through security.</li><br />
 	<li>Make sure you are within the limits for liquids.  You will not be allowed to go through security with anything larger than 100ml. This also applies to gels and creams.  If you have to take these items on your trip, make sure to pack them in your hold luggage.</li><br />
@@ -120,15 +120,17 @@ s.setAttribute('data-timestamp', +new Date());
     </div>
 
   </div>
-		
-  
+
+
 
       <hr>
 
 
-    </div> <!-- /container -->
+
 		<?php include ("../includes/footer.php"); ?>
-			 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" aysnc src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script> 
+  </div> <!-- /container -->
+  <?php include('includes/footermenu.php'); ?>
+			 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" aysnc src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script>
 
 
     <!-- Bootstrap core JavaScript
@@ -137,10 +139,10 @@ s.setAttribute('data-timestamp', +new Date());
    <script async src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

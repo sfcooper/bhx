@@ -86,9 +86,10 @@
       <hr>
 
 
-    </div> <!-- /container -->
+
 <?php include ("includes/footer.php"); ?>
-<?php include 'includes/footermenu.php'; ?>
+</div> <!-- /container -->
+<?php include('includes/footermenu.php'); ?>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TWDXQNL');</script>
 <!-- End Google Tag Manager -->
 	  <title>Directions to Birmingham International Airport</title>
-	  
+
 	  <!--Pushcrew Script-->
 	  	  <script type="text/javascript">
     (function(p,u,s,h){
@@ -57,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     </div>
 	  <div class="col-md-9">
-		  
+
 		    <div class="card-block">
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top Header Responsive -->
@@ -70,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-     
+
 <h2>Getting to the Airport</h2>
 		  </div>
 <p>With Birmingham being on many primary transport routes, getting to the airport is relatively easy.  Birmingham Airport is located approximately 8 Miles east from the city centre just off the A45 Coventry Road, and at Junction 6 of the M42. </p>
@@ -83,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <span class="fn">Birmingham International Airport</span><br />
  <div class="adr">
   <span class="locality">Birmingham</span>,
- 
+
   <span class="region">West Midlands</span>,
 
   <span class="postal-code">B26 3QJ</span>,
@@ -105,7 +105,7 @@ From Birmingham New Street - take the Virgin Rail service to London Euston. Birm
     <p class="card-text">With Royal Assent recently been given for HS2, once built, Birmingham International Airport will be less than 40 minutes away from central London.</p>
     <a class="btn btn-outline-primary" href="http://www.bhx-birmingham-airport.co.uk/news/will-hs2-make-birmingham-londons-seventh-airport/">Read More</a>
   </div>
-</div>		 
+</div>
 
 <br /><br />
 
@@ -190,21 +190,22 @@ Alternatively, take the M1 North, and at Junction 19 join the M6.  Leave the M6 
       </div>
     </div>
   </div>
- 
-		  
+
+
 
     </div>
 
   </div>
-		
-  
+
+
 
       <hr>
 
 
-    </div> <!-- /container -->
-		<?php include ("includes/footer.php"); ?>
 
+		<?php include ("includes/footer.php"); ?>
+  </div> <!-- /container -->
+  <?php include('includes/footermenu.php'); ?>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -212,10 +213,10 @@ Alternatively, take the M1 North, and at Junction 19 join the M6.  Leave the M6 
    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-		
+
 			 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

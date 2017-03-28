@@ -202,8 +202,10 @@ s.setAttribute('data-timestamp', +new Date());
       <hr>
 
 
-    </div> <!-- /container -->
+  
 	 <?php include ("../includes/footer.php"); ?>
+ </div> <!-- /container -->
+ <?php include('includes/footermenu.php'); ?>
 
 	 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" aysnc src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script>
 

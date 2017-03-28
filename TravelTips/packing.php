@@ -57,11 +57,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		 <a class="breadcrumb-item" href="/index.php">Home</a>
 		 <a class="breadcrumb-item" href="/traveltips.php">Travel Tips</a>
 		 <a class="breadcrumb-item active" href="/traveltips/packing.php">Packing</a>
-		 
+
 	 </nav>
 		  <h1>Travel Tips</h1>
 		    <div class="card-block">
-				
+
 <!--Top adsense banner-->
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top Header Responsive -->
@@ -74,12 +74,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-				
+
 </div>
-		  
+
 		  <!--Start of editorial-->
 	<p>It can sometimes be a struggle to get all your stuff into a suitcase, particularly if you're with an airline with a smaller cabin bag size and let's not talk about the creases!  To help you, we've added a video below that has some great tips which will make sure you don't need to leave that one pair of shoes behind.</p>
-	
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--ZrYtRjYfs" frameborder="0" allowfullscreen></iframe>
 	<p>Do you have any good tips on how to pack a suitcase?  Why not add a comment below...</p>
 <div id="disqus_thread"></div>
@@ -105,20 +105,22 @@ s.setAttribute('data-timestamp', +new Date());
                                   <div class="container">
    	<!-- Go to www.addthis.com/dashboard to customize your tools --> <div class="addthis_relatedposts_inline"></div>
    </div>
-                                
+
 
     </div>
 
   </div>
-		
-  
+
+
 
       <hr>
-	  
 
-    </div> <!-- /container -->
+
+
 <?php include ("../includes/footer.php"); ?>
-    	 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" aysnc src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script> 
+</div> <!-- /container -->
+<?php include('includes/footermenu.php'); ?>
+    	 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" aysnc src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -126,10 +128,10 @@ s.setAttribute('data-timestamp', +new Date());
    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

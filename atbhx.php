@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/bootstrap.min.css.map">
-  
+
 	  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -68,34 +68,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<li>Emirates</li>
 		<li>No.1 Lounge</li>
 		<li>Aspire Lounge</li></ul>
-    
+
     <h3>Currency Exchange</h3>
 		<p>ICE (International Currency Exchange) opperate a number of booths at the airport.  Three before security, one after and a further one at baggage reclaim.  Whilst these may offer good convenience, especially if you've forgotten to get your foreign currency, they rarely offer the best exchange rates.</p>
-    
+
     <h3>Special Assistance</h3>
     <p>Assistance for those travellers with special needs is offered throughout the airport and is operated by OCS Ltd.</p>
-  
-		
-    
+
+
+
     <h3>Kids Zone</h3>
 		<p>To help keep the little flyers entertained whilst waiting to board, BHX has two Kids Zones located at Gate 3 in the South Lounge and one by Gate 54 in the North Lounge</p>
-    
+
     <h3>Lost Property</h3>
 		<p>If you've made it back, but your luggage didn't, you'll want to check in with Lost Property. For baggage issues contact Arvin Aviation 0121 767 7771 or <a href="http://www.arvinaviation.com">www.arvinaviation.com</a>. For other items you might have misplaced on the plane or in the airport, you can search the airports database at <a href="http://www.airport-lostproperty.com">www.airport-lostproperty.com</a></p>
-	  
+
 		</div>
 </div>
 		   <hr>
-	  </div>
-	 
-    
+
+
+
   <?php include ('./includes/footer.php'); ?>
+	  </div>
+  <?php include ('includes/footermenu.php'); ?>
 
     <!-- jQuery first, then Tether, then Bootstrap JS. -->
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-    
+
     	 	 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

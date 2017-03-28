@@ -45,7 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	  <div class="col-md-9"><!--Editorial Content-->
 		  <h2>Travel Tips</h2>
 		    <div class="card-block">
-				
+
 <!--Top adsense banner-->
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top Header Responsive -->
@@ -58,20 +58,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-				
+
 </div>
-		  
+
 		  <!--Start of editorial-->
 	<p>Going on holiday or away for business can be both exciting but also stressful.  So we've added some tips to the site that will hopefully make your travels more enjoyable and productive.</p>
-	
+
 <ul class="simple-list">
 <li>Getting through security can be a stressful situation, especially if you're short on time. Read our tips on how to make this a smoother process.  <br>
 	<a class="btn btn-outline-info" role="button" href="TravelTips/security.php">Read more</a>
 	</li><br />
-	
+
 	<li>Do you always struggle to fit everything into your suitcase, or turn up for meetings with a creased shirt?  Then why not watch this video giving some tips on how best to back a suitecase. <br>
 	<a class="btn btn-outline-info" role="button" href="TravelTips/packing.php">Read more</a></li><br />
-	
+
 	<li>There will always be unfortunate cases of flights being delayed or even cancelled.  We've noted down what you're legally entitled to. <br>
 	<a class="btn btn-outline-info" role="button" href="TravelTips/flightcompensation.php">Read more</a>
 																																</li>
@@ -84,15 +84,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
   </div>
-		
-  
+
+
 
       <hr>
 
- 
-    </div> <!-- /container -->
+
+
 	 <?php include ('includes/footer.php'); ?>
-	 
+ </div> <!-- /container -->
+ <?php include('includes/footermenu.php'); ?>
+
 
 
     <!-- Bootstrap core JavaScript
@@ -101,10 +103,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 	 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
- 
+
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css.map">
 	  <!-- Google Tag Manager -->
@@ -79,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h2>NCP</h2>
 <p>NCP operate five on-site car parks; two long stay car parks and also 3 short/medium term car parks. The short/medium car parks are all a very short walk from the terminal building, and whilst you can walk from Long Stay 1 &amp; 2, there is a free shuttle bus that runs between the car parks and the terminals. This service runs every 15 minutes 24 hours a day 365 days a year.<br />
   <br />Pre-booking your parking in one of the long stay car parks, will often be your cheapest option. </p>
-	
+
 	<h3>Valet Parking</h3>
 	<p>NCP also offer <a href="https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-airport-valet-parking/">Valet Parking</a> at the airport.  Valet Parking can be useful if you know you'll be short on time or just want to get out as near to the terminal as possible. </p>
 
@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <td></td>
     </tr>
 </tbody>
-	
+
 </table>
 
 
@@ -149,7 +149,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <h2>Pick Up/Drop Off</h2>
-<p>If you are just picking up, or dropping off someone at the airport, their is a very conveniently placed 'Drop &amp; Go' car park at the very front of the airport terminal building.  There is a nominal charge for using this of &pound;1.<br /><br /> 
+<p>If you are just picking up, or dropping off someone at the airport, their is a very conveniently placed 'Drop &amp; Go' car park at the very front of the airport terminal building.  There is a nominal charge for using this of &pound;1.<br /><br />
 It is also possible to get up to 15 minutes free parking at the Long Stay 1 car park.</p>
 
 
@@ -157,14 +157,16 @@ It is also possible to get up to 15 minutes free parking at the Long Stay 1 car 
     </div>
 
   </div>
-		
-  
+
+
 
       <hr>
 
 
-    </div> <!-- /container -->
+
 	 <?php include ("includes/footer.php"); ?>
+ </div> <!-- /container -->
+ <?php include('includes/footermenu.php'); ?>
 
 
     <!-- Bootstrap core JavaScript
@@ -173,10 +175,10 @@ It is also possible to get up to 15 minutes free parking at the Long Stay 1 car 
    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 	 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

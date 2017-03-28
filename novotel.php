@@ -109,10 +109,12 @@
 	</div>
 
 	 <hr>
-    </div> <!-- /container -->
+  
 
 
 	 <?php include ("includes/footer.php"); ?>
+ </div> <!-- /container -->
+ <?php include('includes/footermenu.php'); ?>
 
 
     <!-- Bootstrap core JavaScript
