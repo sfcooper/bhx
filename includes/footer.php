@@ -1,11 +1,11 @@
       <footer>
         <div class="container">
 		   <div class="row">
-			   <div class="col-md-2">
+			   <div class="col-md-3">
 	<h3>Follow Us</h3>
 	<ul class="list-unstyled"><li><a href="https://www.facebook.com/BHX-Birmingham-Airport-180058415355703/">Facebook</a></li>
 		<li><a href="https://twitter.com/BHXGuide">Twitter</a></li>
-			   
+
 		</ul>
 		</div>
 			       <div class="col-md-3">
@@ -21,7 +21,7 @@
 <div id="mc_embed_signup">
 <form action="//bhx-birmingham-airport.us15.list-manage.com/subscribe/post?u=62a00ccd75d0d04090bd917a2&amp;id=1945c655bc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
+
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -48,7 +48,7 @@
 
 <!--End mc_embed_signup-->
 			   </div>
-			   <div class="col-md-5">
+			   <div class="col-md-4">
 				   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Responsive Footer -->
 <ins class="adsbygoogle"
