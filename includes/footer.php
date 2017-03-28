@@ -1,14 +1,14 @@
       <footer>
         <div class="container">
 		   <div class="row">
-			   <div class="col-md-3">
+			   <div class="col-md-4">
 	<h3>Follow Us</h3>
 	<ul class="list-unstyled"><li><a href="https://www.facebook.com/BHX-Birmingham-Airport-180058415355703/">Facebook</a></li>
 		<li><a href="https://twitter.com/BHXGuide">Twitter</a></li>
 
 		</ul>
 		</div>
-			       <div class="col-md-3">
+			       <div class="col-md-4">
 					   <h3>Subscribe</h3>
 					   <p>Receive the occasional email from us.</p>
 <!-- Begin MailChimp Signup Form -->
