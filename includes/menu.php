@@ -24,21 +24,21 @@
 			</li>
 			<li class="nav-item">
             <a class="nav-link" href="/traveltips.php">Travel Tips</a>
-				
+
 			</li>
 			<li class="nav-item">
             <a class="nav-link" href="/news/">News</a>
-				
+
 			</li>
           </li>
 			<li class="nav-item">
-            <a class="nav-link" href="/community.php">Forum</a>
-				
+            <a class="nav-link" href="/forumUpload/">Forum</a>
+
 			</li>
-	
-         
+
+
 
         </ul>
-        
+
       </div>
     </nav>
