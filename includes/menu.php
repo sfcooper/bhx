@@ -30,11 +30,7 @@
             <a class="nav-link" href="/news/">News</a>
 
 			</li>
-          </li>
-			<li class="nav-item">
-            <a class="nav-link" href="/forumUpload/">Forum</a>
 
-			</li>
 
 
 

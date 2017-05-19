@@ -18,6 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TWDXQNL');</script>
 <!-- End Google Tag Manager -->
 	  <title>Birmingham International Airport</title>
+    <meta name="description" content="A guide to Birmingham Airport" / />
 	<script>
 	$('.carousel').carousel({
 		interval: 3000
@@ -161,10 +162,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       <hr>
 
- 
+
     </div> <!-- /container -->
 
-	 
+
 	 <?php include ("includes/footer.php"); ?>
 
 
@@ -177,10 +178,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-  
+
 
 <span id="buffer-extension-hover-button" style="display: none;position: absolute;z-index: 8675309;width: 100px;height: 25px;background-image: url(chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png);background-size: 100px 25px;opacity: 0.9;cursor: pointer;"></span>
-	 
+
 	 <!--Google Analytics-->
 	 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -192,10 +193,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   ga('send', 'pageview');
 
 </script><!--End GA-->
-	 
+
 	 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58aca4ebdd2716f4"></script>
-	 
+
 	 <script>(function(e,t,n,c){var o,s,r;e.SMCX=e.SMCX||[],t.getElementById(c)||(o=t.getElementsByTagName(n),s=o[o.length-1],r=t.createElement(n),r.type="text/javascript",r.async=!0,r.id=c,r.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/zMSRSynFAV_2Bybf3rjBBew9_2FMbkAc5uuP_2FWlQYern6x9NWGzhrycCI8Up7hAZJ69L.js"].join(""),s.parentNode.insertBefore(r,s))})(window,document,"script","smcx-sdk");</script>
-	 
+
   </body>
 </html>
